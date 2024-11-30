@@ -1,3 +1,7 @@
+FLow Structure
+
+<img src="https://github.com/satnam1994/Automated-Backup-Process-via-Shell-Script-Quarterly/blob/main/basic_backup.drawio.png">
+
 README for Database Backup Script
 Overview
 This script is designed to automate the backup, compression, and upload process for a database. It includes several key features, such as:
