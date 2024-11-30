@@ -82,7 +82,7 @@ fi
 DB_PASSWORD=$(php $artisan tinker --execute="echo Crypt::decrypt(env('DB_PASSWORD'));")
 
 # List of tables to back up and delete from
-declare -a tables=("vehicle_trips" "lpr_logs" "vehicle_register_api_logs" "trip_register_api_logs" "mis_trip_data_logs" "driver_register_api_logs" "device_health_logs" "rfid_logs" "rfid_error_logs" "rfid_lpr_logs" "flag_reports" "flag_histories" "anpr_error_logs")
+declare -a tables=("table1" "table2" "table3" "table4" "table5")
 
 # Step 3: Create an SQL backup for each table
 echo "Creating SQL backup for records older than 3 months..."
