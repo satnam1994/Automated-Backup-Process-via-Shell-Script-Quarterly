@@ -1,6 +1,7 @@
 Backup Script
-# Backup Script With Python
-# Backup Script With Shell
+
+# Backup Script With Python and Shell Commands
+
 FLow Structure
 
 <img src="https://github.com/satnam1994/Automated-Backup-Process-via-Shell-Script-Quarterly/blob/main/basic_backup.drawio.png">
